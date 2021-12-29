@@ -33,3 +33,11 @@
 #button {
     padding: 1rem;
 }
+
+.copy-btn {
+    padding: 10px;
+}
+
+.copy-btn:hover {
+    background-image: linear-gradient(180deg, #ffff00 0, #ffff00 8.33%, #ffff00 16.67%, #ddff12 25%, #b5ff30 33.33%, #88ff44 41.67%, #53f253 50%, #00e260 58.33%, #00d56c 66.67%, #00c978 75%, #00c084 83.33%, #00b992 91.67%, #00b4a0 100%);
+}
