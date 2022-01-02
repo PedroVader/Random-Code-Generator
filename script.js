@@ -4,7 +4,7 @@ function generate ()  {
     var newColor = "#";
 
 
-    //Para cambiar la longitud del valor hexadecimal cambia la condición númerica del bucle for
+    
     for(var i = 0; i < 8; i++) {
         var x = Math.round(Math.random() * 14);
         var y = valoresHexadecimales[x];
